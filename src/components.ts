@@ -44,6 +44,7 @@ export * from './table';
 export * from './tag';
 export * from './tooltip';
 export * from './tree';
+export * from './count-down';
 
 // 消息提醒
 

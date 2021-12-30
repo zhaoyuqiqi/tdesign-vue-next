@@ -367,6 +367,13 @@ export default {
           path: '/vue-next/components/tree',
           component: () => import('@/examples/tree/tree.md'),
         },
+        {
+          title: 'CountDown 倒计时',
+          name: 'count-down',
+          docType: 'data',
+          path: '/vue-next/components/count-down',
+          component: () => import('@/examples/count-down/count-down.md'),
+        },
       ],
     },
     {
