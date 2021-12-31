@@ -1,6 +1,6 @@
 <template>
   <div>
-    <t-count-down :time="time" @finish="finish" @change="timeChange"> </t-count-down>
+    <t-count-down :time="time"> </t-count-down>
   </div>
 </template>
 <script lang="ts">
